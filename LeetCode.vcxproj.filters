@@ -21,5 +21,8 @@
     <ClInclude Include="09每日一题\0924-430扁平化多级双向链表.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="09每日一题\0925-583两个字符串的删除操作.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
