@@ -24,5 +24,8 @@
     <ClInclude Include="09每日一题\0925-583两个字符串的删除操作.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="09每日一题\0926-371两整数之和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
