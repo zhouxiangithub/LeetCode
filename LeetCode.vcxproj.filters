@@ -27,5 +27,17 @@
     <ClInclude Include="09每日一题\0926-371两整数之和.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="09每日一题\0930-223矩形面积.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="09每日一题\0927-639解码方法II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="09每日一题\0928-437路径总和III.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="09每日一题\0929-517超级洗衣机.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
