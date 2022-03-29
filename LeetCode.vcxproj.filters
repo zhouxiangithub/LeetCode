@@ -39,5 +39,23 @@
     <ClInclude Include="09每日一题\0929-517超级洗衣机.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="10每日一题\1020-453最小操作次数使数组元素相等.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="10每日一题\1018-476数字的补数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="10每日一题\1017-230二叉搜索树中第K小的元素.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="10每日一题\1019-211添加与搜索单词-数据结构设计.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="10每日一题\1025-240搜索二维矩阵II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="10每日一题\1026-496下一个更大元素I.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
