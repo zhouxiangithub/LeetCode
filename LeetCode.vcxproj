@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
+﻿<?xml version="1.0" encoding="utf-8"?>
 <Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup Label="ProjectConfigurations">
     <ProjectConfiguration Include="Debug|Win32">
@@ -88,6 +88,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
+      <LanguageStandard>stdcpp17</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -153,6 +154,103 @@
     <ClInclude Include="10每日一题\1020-453最小操作次数使数组元素相等.h" />
     <ClInclude Include="10每日一题\1025-240搜索二维矩阵II.h" />
     <ClInclude Include="10每日一题\1026-496下一个更大元素I.h" />
+    <ClInclude Include="202203每日一题\0301-6Z字形变换.h" />
+    <ClInclude Include="202203每日一题\0302-564寻找最近的回文数.h" />
+    <ClInclude Include="202203每日一题\0303-258各位相加.h" />
+    <ClInclude Include="202203每日一题\0304-2104子数组范围和.h" />
+    <ClInclude Include="202203每日一题\0305-521最长特殊序列Ⅰ.h" />
+    <ClInclude Include="202203每日一题\0306-2100适合打劫银行的日子.h" />
+    <ClInclude Include="202203每日一题\0307-504七进制数.h" />
+    <ClInclude Include="202203每日一题\0308-2055蜡烛之间的盘子.h" />
+    <ClInclude Include="202203每日一题\0309-798得分最高的最小轮调.h" />
+    <ClInclude Include="202203每日一题\0310-589N叉树的前序遍历.h" />
+    <ClInclude Include="202203每日一题\0311-2049统计最高分的节点数目.h" />
+    <ClInclude Include="202203每日一题\0312-590N叉树的后序遍历.h" />
+    <ClInclude Include="202203每日一题\0313-393UTF-8编码验证.h" />
+    <ClInclude Include="202203每日一题\0314-599两个列表的最小索引总和.h" />
+    <ClInclude Include="202203每日一题\0315-2044统计按位或能得到最大值的子集数目.h" />
+    <ClInclude Include="202203每日一题\0316-432全O(1)的数据结构.h" />
+    <ClInclude Include="202203每日一题\0317-720词典中最长的单词.h" />
+    <ClInclude Include="202203每日一题\0318-2043简易银行系统.h" />
+    <ClInclude Include="202203每日一题\0319-606根据二叉树创建字符串.h" />
+    <ClInclude Include="202203每日一题\0320-2039网络空闲的时刻.h" />
+    <ClInclude Include="202203每日一题\0321-653两数之和IV-输入BST.h" />
+    <ClInclude Include="202203每日一题\0322-2038如果相邻两个颜色均相同则删除当前颜色.h" />
+    <ClInclude Include="202203每日一题\0323-440字典序的第K小数字.h" />
+    <ClInclude Include="202203每日一题\0324-661图片平滑器.h" />
+    <ClInclude Include="202203每日一题\0325-172阶乘后的零.h" />
+    <ClInclude Include="202203每日一题\0326-682棒球比赛.h" />
+    <ClInclude Include="202203每日一题\0327-2028找出缺失的观测数据.h" />
+    <ClInclude Include="202203每日一题\0328-693交替位二进制数.h" />
+    <ClInclude Include="202203每日一题\0329-1004最大连续1的个数III.h" />
+    <ClInclude Include="202203每日一题\0329-1208尽可能使字符串相等.h" />
+    <ClInclude Include="202203每日一题\0329-2024考试的最大困扰度.h" />
+    <ClInclude Include="202203每日一题\0329-424替换后的最长重复字符.h" />
+    <ClInclude Include="202203每日一题\0330-1606找到处理最多请求的服务器.h" />
+    <ClInclude Include="202203每日一题\0331-728自除数.h" />
+    <ClInclude Include="202204每日一题\0401-954二倍数对数组.h" />
+    <ClInclude Include="202204每日一题\0402-420强密码检验器.h" />
+    <ClInclude Include="202204每日一题\0403-744寻找比目标字母大的最小字母.h" />
+    <ClInclude Include="202204每日一题\0404-307区域和检索-数组可修改.h" />
+    <ClInclude Include="202204每日一题\0405-762二进制表示中质数个计算置位.h" />
+    <ClInclude Include="202204每日一题\0406-310最小高度树.h" />
+    <ClInclude Include="202204每日一题\0407-796旋转字符串.h" />
+    <ClInclude Include="202204每日一题\0408-429N叉树的层序遍历.h" />
+    <ClInclude Include="202204每日一题\0409-780到达终点.h" />
+    <ClInclude Include="202204每日一题\0410-804唯一摩尔斯密码词.h" />
+    <ClInclude Include="202204每日一题\0411-357统计各位数字都不同的数字个数.h" />
+    <ClInclude Include="202204每日一题\0412-806写字符串需要的行数.h" />
+    <ClInclude Include="202204每日一题\0414-1672最富有客户的资产总量.h" />
+    <ClInclude Include="202204每日一题\0415-385迷你语法分析器.h" />
+    <ClInclude Include="202204每日一题\0416-479最大回文数乘积.h" />
+    <ClInclude Include="202204每日一题\0417-819最常见的单词.h" />
+    <ClInclude Include="202204每日一题\0418-386字典序排数.h" />
+    <ClInclude Include="202204每日一题\0419-821字符的最短距离.h" />
+    <ClInclude Include="202204每日一题\0420-388文件的最长绝对路径.h" />
+    <ClInclude Include="202204每日一题\0421-824山羊拉丁文.h" />
+    <ClInclude Include="202204每日一题\0422-396旋转函数.h" />
+    <ClInclude Include="202204每日一题\0423-587安装栅栏.h" />
+    <ClInclude Include="202204每日一题\0424-868二进制间距.h" />
+    <ClInclude Include="202204每日一题\0425-398随机数索引.h" />
+    <ClInclude Include="202204每日一题\0426-883三维形体投影面积.h" />
+    <ClInclude Include="202204每日一题\0427-417太平洋大西洋水流问题.h" />
+    <ClInclude Include="202204每日一题\0428-208实现Trie(前缀树).h" />
+    <ClInclude Include="202204每日一题\0428-905按奇偶排序数组.h" />
+    <ClInclude Include="202204每日一题\0429-303区域和检索-数组不可变.h" />
+    <ClInclude Include="202204每日一题\0429-304二维区域和检索-矩阵不可变.h" />
+    <ClInclude Include="202204每日一题\0429-427建立四叉树.h" />
+    <ClInclude Include="202204每日一题\0430-908最小差值I.h" />
+    <ClInclude Include="202205每日一题\0501-1305两棵二叉搜索树中的所有元素.h" />
+    <ClInclude Include="202205每日一题\0502-591标签验证器.h" />
+    <ClInclude Include="202205每日一题\0503-937重新排列日志文件.h" />
+    <ClInclude Include="202205每日一题\0504-1823找出游戏的获胜者.h" />
+    <ClInclude Include="202205每日一题\0505-713乘积小于K的子数组.h" />
+    <ClInclude Include="202205每日一题\0506-933最近的请求次数.h" />
+    <ClInclude Include="202205每日一题\0507-433最小基因变化.h" />
+    <ClInclude Include="202205每日一题\0508-442数组中重复的数据.h" />
+    <ClInclude Include="202205每日一题\0509-942增减字符串匹配.h" />
+    <ClInclude Include="202205每日一题\0510-1728猫和老鼠II.h" />
+    <ClInclude Include="202205每日一题\0511-449序列化和反序列化二叉搜索树.h" />
+    <ClInclude Include="202205每日一题\0512-944删列造序.h" />
+    <ClInclude Include="202205每日一题\0513-面试题0105一次编辑.h" />
+    <ClInclude Include="202205每日一题\0514-691贴纸拼词.h" />
+    <ClInclude Include="202205每日一题\0515-812最大三角形面积.h" />
+    <ClInclude Include="202205每日一题\0516-面试题0406后继者.h" />
+    <ClInclude Include="202205每日一题\0517-953验证外星语词典.h" />
+    <ClInclude Include="202205每日一题\0518-668乘法表中第k小的数.h" />
+    <ClInclude Include="202205每日一题\0519-462最少移动次数使数组元素相等II.h" />
+    <ClInclude Include="202205每日一题\0520-436寻找右区间.h" />
+    <ClInclude Include="202205每日一题\0521-961在长度2N的数组中找出重复N次的元素.h" />
+    <ClInclude Include="202205每日一题\0522-464我能赢吗.h" />
+    <ClInclude Include="202205每日一题\0523-675为高尔夫比赛砍树.h" />
+    <ClInclude Include="202205每日一题\0524-965单值二叉树.h" />
+    <ClInclude Include="202205每日一题\0525-467环绕字符串中唯一的子字符串.h" />
+    <ClInclude Include="202205每日一题\0526-699掉落的方块.h" />
+    <ClInclude Include="202205每日一题\0527-面试题1711单词距离.h" />
+    <ClInclude Include="202205每日一题\0528-1021删除最外层的括号.h" />
+    <ClInclude Include="202205每日一题\0529-468验证IP地址.h" />
+    <ClInclude Include="202205每日一题\0530-1022从根到叶的二进制数之和.h" />
+    <ClInclude Include="202205每日一题\0531-剑指OfferII114外星文字典.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
