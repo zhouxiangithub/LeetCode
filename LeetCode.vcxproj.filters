@@ -348,5 +348,104 @@
     <ClInclude Include="202205每日一题\0531-剑指OfferII114外星文字典.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202206每日一题\0601-473火柴拼正方形.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0602-450删除二叉搜索树中的节点.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0603-829连续整数求和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0604-929独特的电子邮件地址.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0605-478在圆内随机生成点.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0606-732我的日程安排表III.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0606-729我的日程安排表I.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0606-731我的日程安排表II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0607-875爱吃香蕉的珂珂.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0608-1037有效的回旋镖.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0609-497非重叠矩形中的随机点.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0610-730统计不同回文子序列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0611-926将字符串翻转到单调递增.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0612-890查找和替换模式.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0613-1051高度检查器.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0614-498对角线遍历.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0615-719找出第K小的数对距离.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0616-532数组中的k-diff数对.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0617-1089复写零.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0618-剑指OfferII029排序的循环链表.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0619-508出现次数最多的子树元素和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0620-715Range模块.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0621-1108IP地址无效化.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0622-513找树左下角的值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0623-30串联所有单词的子串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0623-438找到字符串中所有字母异位词.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0624-515在每个树行中找最大值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0625-剑指OfferII091粉刷房子.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0626-710黑名单中的随机数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0627-522最长特殊序列II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0628-324摆动排序II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0629-535TinyURL的加密与解密.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202206每日一题\0630-1175质数排列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
