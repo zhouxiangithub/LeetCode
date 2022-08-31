@@ -543,5 +543,98 @@
     <ClInclude Include="202207每日一题\0731-1161最大层内元素和.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202208每日一题\0801-1374生成每种字符都是奇数个的字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0802-622设计循环队列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0803-899有序队列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0804-1403非递增顺序的最小子序列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0805-623在二叉树中增加一行.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0806-1408数组中的字符串匹配.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0807-636函数的独占时间.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0808-761特殊的二进制序列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0809-1413逐步求和得到正数的最小值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0811-1417重新格式化字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0810-640求解方程.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0812-1282用户分组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0813-768最多能完成排序的块II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0814-1422分割字符串的最大得分.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0815-641设计循环双端队列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0816-1656设计有序流.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0817-1302层数最深叶子节点的和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0818-1224最大相等频率.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0819-1450在既定时间做作业的学生人数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0820-654最大二叉树.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0821-1455检查单词是否为句中其他单词的前缀.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0822-655输出二叉树.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0824-1460通过翻转子数组使两个数组相等.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0825-658找到K个最接近的元素.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0826-1464数组中两元素的最大乘积.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0827-662二叉树最大宽度.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0823-782变为棋盘.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0828-793阶乘函数后K个零.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0829-1470重新排列数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0830-998最大二叉树II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202208每日一题\0831-946验证栈序列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
