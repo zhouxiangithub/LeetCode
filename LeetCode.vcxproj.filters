@@ -636,5 +636,101 @@
     <ClInclude Include="202208每日一题\0831-946验证栈序列.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202209每日一题\0901-1475商品折扣后的最终价格.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0902-687最长同值路径.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0903-646最长数对链.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0903-435无重叠区间.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0903-300最长递增子序列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0904-1582二进制矩阵中的特殊位置.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0905-652寻找重复的子树.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0906-828统计子串中的唯一字符.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0907-1592重新排列单词间的空格.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0908-667优美的排列II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0909-1598文件夹操作日志搜集器.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0910-669修剪二叉搜索树.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0911-857雇佣K名工人的最低成本.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0912-1608特殊数组的特征值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0913-670最大交换.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0914-1619删除某些元素后的数组均值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0915-672灯泡开关Ⅱ.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0916-850矩形面积II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0917-1624两个相同字符之间的最长子字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0918-827最大人工岛.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0919-1636按照频率将数组升序排序.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0920-698划分为k个相等的子集.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0921-854相似度为K的字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0922-1640能否连接形成数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0923-707设计链表.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0924-1652拆炸弹.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0925-788旋转数字.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0926-面试题1719消失的两个数字.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0927-面试题0102判定是否互为字符重排.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0928-面试题1709第k个数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0929-面试题0109字符串轮转.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202209每日一题\0930-面试题0108零矩阵.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
