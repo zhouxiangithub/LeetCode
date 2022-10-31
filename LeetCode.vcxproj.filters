@@ -732,5 +732,98 @@
     <ClInclude Include="202209每日一题\0930-面试题0108零矩阵.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202210每日一题\1001-1694重新格式化电话号码.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1009-856括号的分数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1008-870优势洗牌.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1007-1800最大升序子数组和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1002-777在LR字符串中交换相邻字符.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1003-1784检查二进制字符串字段.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1004-921使括号有效的最少添加.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1005-811子域名访问计数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1006-927三等分.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1010-801使序列递增的最小交换次数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1011-1790仅执行一次字符串交换能否使两个字符串相等.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1012-817链表组件.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1013-769最多能完成排序的块.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1014-940不同的子序列II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1015-1441用栈操作构建数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1016-886可能的二分法.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1017-904水果成篮.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1018-902最大为N的数字组合.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1019-1700无法吃午餐的学生数量.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1020-779第K个语法符号.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1021-901股票价格跨度.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1022-1235规划兼职工作.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1023-1768交替合并字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1024-915分割数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1025-934最短的桥.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1026-862和至少为K的最短子数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1027-1822数组元素积的符号.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1028-907子数组的最小值之和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1029-1773统计匹配检索规则的物品数量.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1030-784字母大小写全排列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202210每日一题\1031-481神奇字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
