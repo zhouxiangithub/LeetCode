@@ -915,5 +915,98 @@
     <ClInclude Include="202211每日一题\1130-895最大频率栈.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202212每日一题\1203-1796字符串中第二大的数字.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1201-1779找到最近的有相同X或Y坐标的点.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1202-1769移动所有球到每个盒子所需的最小操作数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1204-1774最接近目标价格的甜点成本.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1207-1775通过最少操作次数使数组的和相等.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1206-1805字符串中不同整数的数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1208-1812判断国际象棋棋盘中一个格子的颜色.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1209-1780判断一个数字是否可以表示成三的幂的和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1205-1687从仓库到码头运输箱子.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1210-1691堆叠长方体的最大高度.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1211-1827最少操作使数组递增.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1212-1781所有子字符串美丽值之和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1213-1832判断句子是否为全字母句.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1215-1945字符串转化后的各位数字之和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1216-1785构成特定和需要添加的最少元素.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1214-1697检查边长度限制的路径是否存在.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1217-1764通过连接另一个数组的子数组得到一个数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1218-1703得到连续K个1的最少相邻交换次数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1219-1971寻找图中是否存在路径.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1220-1760袋子里最少数目的球.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1221-1753移除石子的最大得分.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1222-1799N次操作后的最大分数和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1223-2011执行操作后的变量值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1224-1754构造字典序最大的合并字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1225-1739放置盒子.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1226-1759统计同构子字符串的数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1227-2027转换字符串的最少操作次数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1228-1750删除字符串两端相同字符后的最短长度.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1229-2032至少在两个数组中出现的值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1230-855考场就座.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202212每日一题\1231-2037使每位学生都有座位的最少移动次数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
