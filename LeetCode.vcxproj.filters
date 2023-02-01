@@ -1008,5 +1008,98 @@
     <ClInclude Include="202212每日一题\1231-2037使每位学生都有座位的最少移动次数.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202301每日一题\0101-2351第一个出现两次的字母.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0102-1801积压订单中的订单总数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0103-2042检查句子中的数字是否递增.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0104-1802有界数组中指定下标处的最大值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0106-2180统计各位数字之和为偶数的整数个数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0107-1658将x减到0的最小操作数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0108-2185统计包含给定前缀的字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0109-1806还原排列的最少操作步数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0111-2283判断一个数的数字计数是否等于数位的值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0113-2287重排字符形成目标字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0112-1807替换字符串中的括号内容.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0114-1819序列中不同最大公约数的数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0115-2293极大极小游戏.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0116-1813句子相似性III.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0117-1814统计一个数组中好对子的数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0110-753破解保险箱.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0105-1803统计异或值在范围内的数对有多少.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0119-2299强密码检验器II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0120-1817查找用户活跃分钟数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0123-2303计算应缴税款总额.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0129-2315统计星号.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0128-1664生成平衡数组的方案数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0127-2309兼具大小写的最好英文字母.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0126-1663具有给定数值的最小字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0124-1828统计一个圆中点的数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0121-1824最少侧跳次数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0118-1825求出MK平均值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0130-1669合并两个链表.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0131-2319判断矩阵是否是一个X矩阵.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0122-1815得到新鲜甜甜圈的最多组数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202301每日一题\0125-1632矩阵转换后的秩.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
