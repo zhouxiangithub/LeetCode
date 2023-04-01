@@ -1185,5 +1185,98 @@
     <ClInclude Include="202302每日一题\0228-2363合并相似的物品.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202303每日一题\0301-2373矩阵中的局部最大值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0302-面试题0502二进制数转字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0303-1487保证文件名唯一.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0304-982按位与为零的三元组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0305-1599经营摩天轮的最大利润.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0306-1653使字符串平衡的最少删除次数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0310-1590使数组和能被P整除.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0309-2379得到K个黑块的最少涂色次数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0308-剑指Offer47礼物的最大价值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0307-1096花括号展开II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0311-面试题1705字母与数字.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0313-2383赢得比赛需要的最少训练时长.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0312-1617统计子树中城市之间最大距离.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0314-1605给定行和列的和求可行矩阵.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0315-1615最大网络秩.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0316-2488统计中位数为K的子数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0317-2389和有限的最长子序列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0318-1616分割两个字符串得到回文串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0319-1625执行操作后字典序最小的字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0320-1012至少有1位重复的数字.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0321-2469温度转换.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0322-1626无矛盾的最佳球队.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0323-1630等差子数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0324-1032字符流.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0327-1638统计只差一个字符的子串数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0326-2395和相等的子数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0325-1574删除最短的子数组使剩余数组有序.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0328-1092最短公共超序列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0329-1641统计字典序元音字符串的数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0330-1637两点之间不包含任何点的最宽垂直区域.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202303每日一题\0331-2367算术三元组的数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
