@@ -1278,5 +1278,95 @@
     <ClInclude Include="202303每日一题\0331-2367算术三元组的数目.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202304每日一题\0401-831隐藏个人信息.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0402-1039多边形三角剖分的最低得分.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0403-1053交换一次的先前排列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0404-1000合并石头的最低成本.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0405-2427公因子的数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0406-1017负二进制转换.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0407-1040移动石子直到连续 II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0408-1125最小的必要团队.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0409-2399检查相同字母间的距离.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0410-1019链表中的下一个更大节点.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0411-1041困于环中的机器人.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0412-1147段式回文.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0413-2404出现最频繁的偶数元素.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0414-1023驼峰式匹配.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0415-1042不邻接植花.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0416-1157子数组中占绝大多数的元素.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0417-2409统计共同度过的日子数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0418-1026节点与其祖先之间的最大差值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0419-1043分隔数组以得到最大和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0420-1187使数组严格递增.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0421-2413最小偶倍数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0422-1027最长等差数列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0423-1105填充书架.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0424-1163按字典序排在最后的子串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0425-2418按身高排序.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0426-1031两个非重叠子数组的最大和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0427-1048最长字符串链.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0430-1033移动石子直到连续.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0429-2423删除字符使频率相同.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202304每日一题\0428-1172餐盘栈.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
