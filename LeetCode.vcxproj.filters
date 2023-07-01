@@ -1461,5 +1461,95 @@
     <ClInclude Include="202305每日一题\0531-1130叶值的最小代价生成树.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202306每日一题\0601-2517礼盒的最大甜蜜度.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0602-2559统计范围内的元音字符串数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0603-1156单字符重复子串的最大长度.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0604-2465不同的平均值数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0605-2460对数组执行操作.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0606-2352相等行列对.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0607-2611老鼠和奶酪.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0608-1240铺瓷砖.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0609-2699修改图中的边权.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0610-1170比较字符串最小字母出现频次.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0611-1171从链表中删去总和值为零的连续节点.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0612-1483树节点的第K个祖先.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0613-2475数组中不等三元组的数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0614-1375二进制字符串前缀一致的次数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0615-1177构建回文串检测.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0616-1494并行课程II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0617-2481分割圆的最少切割次数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0618-1254统计封闭岛屿的数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0619-1262可被三整除的最大和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0620-1595连通两组点的最小成本.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0621-LCP41黑白翻转棋.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0622-面试题1619水域大小.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0626-2485找出中枢整数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0623-2496数组中字符串的最大值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0625-1401圆和矩形是否有重叠.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0624-1659最大化网格幸福感.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0627-1186删除一次得到子数组最大和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0630-2490回环句.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0629-1253重构2行二进制矩阵.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202306每日一题\0628-1681最小不兼容性.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
