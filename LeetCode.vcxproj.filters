@@ -1644,5 +1644,98 @@
     <ClInclude Include="202307每日一题\0731-143重排链表.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202308每日一题\0801-2681英雄的力量.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0802-822翻转卡片游戏.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0803-722删除注释.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0804-980不同路径III.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0805-21合并两个有序链表.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0806-24两两交换链表中的节点.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0807-344反转字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0808-1749任意子数组和的绝对值的最大值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0809-1281整数的各位积和之差.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0810-1289下降路径最小和II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0811-1572矩阵对角线元素的和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0812-23合并K个升序链表.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0813-88合并两个有序数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0814-617合并二叉树.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0815-833字符串中的查找与替换.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0816-2682找出转圈游戏输家.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0817-1444切披萨的方案数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0818-13883n块披萨.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0819-2235两整数相加.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0820-2236判断根结点是否等于子结点之和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0821-2337移动片段得到字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0822-849到最近的人的最大距离.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0823-1782统计点对的数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0824-1267统计参与通信的服务器.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0825-1448统计二叉树中好节点的数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0826-228汇总区间.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0827-56合并区间.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0828-57插入区间.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0829-823带因子的二叉树.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0830-1654到家的最少跳跃次数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202308每日一题\0831-1761一个图中连通三元组的最小度数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
