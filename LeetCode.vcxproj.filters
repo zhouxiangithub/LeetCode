@@ -1737,5 +1737,95 @@
     <ClInclude Include="202308每日一题\0831-1761一个图中连通三元组的最小度数.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202309每日一题\0901-2240买钢笔和铅笔的方案数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0902-2511最多可以摧毁的敌人城堡数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0903-1921消灭怪物的最大数量.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0904-449序列化和反序列化二叉搜索树.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0905-2605从两个数字数组里生成最小数字.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0906-1123最深叶节点的最近公共祖先.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0907-2594修车的最少时间.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0908-2651计算列车到站时间.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0909-207课程表.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0910-210课程表II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0911-630课程表III.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0912-1462课程表IV.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0913-2596检查骑士巡视方案.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0914-1222可以攻击国王的皇后.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0915-LCP50宝石补给.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0916-198打家劫舍.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0917-213打家劫舍II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0918-337打家劫舍III.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0919-2560打家劫舍IV.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0920-LCP06拿硬币.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0922-2591将钱分给最多的儿童.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0921-2603收集树中金币.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0923-1993树上的操作.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0924-146LRU缓存.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0925-460LFU缓存.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0926-2582递枕头.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0927-1333餐厅过滤器.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0929-605种花问题.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0928-2251花期内花的数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202309每日一题\0930-2136全部开花的最早一天.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
