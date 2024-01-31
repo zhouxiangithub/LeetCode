@@ -2103,5 +2103,98 @@
     <ClInclude Include="202312每日一题\1231-1154一年中的第几天.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202401每日一题\0101-1599经营摩天轮的最大利润.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0102-466统计重复个数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0103-2487从链表中移除节点.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0104-2397被列覆盖的最多行数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0105-1944队列中可以看到的人数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0106-2807在链表中插入最大公约数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0107-383赎金信.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0108-447回旋镖的数量.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0109-2707字符串中的额外字符.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0110-2696删除子串后的字符串最小长度.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0111-2645构造有效字符串的最少插入数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0112-2085统计出现过一次的公共字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0113-2182构造限制重复的字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0114-83删除排序链表中的重复元素.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0115-82删除排序链表中的重复元素II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0116-2719统计整数数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0117-2744最大字符串配对数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0118-2171拿出最少数目的魔法豆.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0119-2809使数组和小于等于x的最少时间.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0123-2765最长交替子数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0122-670最大交换.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0120-2788按分隔符拆分字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0121-410分割数组的最大值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0124-2865美丽塔I.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0125-2859计算K置位下标对应元素的和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0130-2808使循环数组所有元素相等的最少秒数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0129-514自由之路.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0128-365水壶问题.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0127-2861最大合金数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0126-2846边权重均等查询.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202401每日一题\0131-2670找出不同元素数目差数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
