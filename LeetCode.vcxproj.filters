@@ -2196,5 +2196,92 @@
     <ClInclude Include="202401每日一题\0131-2670找出不同元素数目差数组.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202402每日一题\0201-LCP24数字游戏.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0202-1686石子游戏VI.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0203-1690石子游戏VII.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0204-292Nim游戏.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0205-1696跳跃游戏VI.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0206-LCP30魔塔游戏.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0207-2641二叉树的堂兄弟节点II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0208-993二叉树的堂兄弟节点.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0209-236二叉树的最近公共祖先.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0210-94二叉树的中序遍历.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0211-144二叉树的前序遍历.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0212-145二叉树的后序遍历.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0213-987二叉树的垂序遍历.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0214-102二叉树的层序遍历.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0215-107二叉树的层序遍历II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0216-103二叉树的锯齿形层序遍历.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0217-429N叉树的层序遍历.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0218-589N叉树的前序遍历.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0219-590N叉树的后序遍历.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0220-105从前序与中序遍历序列构造二叉树.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0221-106从中序与后序遍历序列构造二叉树.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0222-889根据前序和后序遍历构造二叉树.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0223-2583二叉树中的第K大层和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0226-938二叉搜索树的范围和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0224-2476二叉搜索树最近节点查询.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0225-235二叉搜索树的最近公共祖先.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0228-2673使二叉树所有路径值相等的最小代价.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0227-2867统计树中的合法路径数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202402每日一题\0229-2581统计可能的树根数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
