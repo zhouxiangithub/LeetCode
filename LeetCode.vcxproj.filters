@@ -2283,5 +2283,98 @@
     <ClInclude Include="202402每日一题\0229-2581统计可能的树根数目.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202403每日一题\0304-232用栈实现队列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0303-225用队列实现栈.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0301-2369检查数组是否存在有效划分.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0302-2368受限条件下可到达节点的数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0306-2917找出数组中的K-or值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0305-1976到达目的地的方案数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0307-2575找出字符串的可整除数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0308-2834找出美丽数组的最小和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0312-1261在受污染的二叉树中查找元素.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0311-2129将标题首字母大写.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0310-299猜数字游戏.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0309-2386找出数组的第K大和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0313-2864最大二进制奇数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0314-2789合并后数组中的最大元素.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0315-2312卖木头块.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0318-303区域和检索-数组不可变.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0316-2684矩阵中移动的最大次数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0317-310最小高度树.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0319-1793好子数组的最大分数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0320-1969数组元素的最小非零乘积.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0321-2671频率跟踪器.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0322-2617网格图中最少访问的格子数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0323-2549统计桌面上的不同数字.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0324-322零钱兑换.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0325-518零钱兑换II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0326-2642设计可以求最短路径的图类.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0327-2580统计将重叠区间合并成组的方案数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0328-1997访问完所有房间的第一天.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0329-2908元素和最小的山形三元组I.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0330-2952需要添加的硬币的最小数量.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202403每日一题\0331-331验证二叉树的前序序列化.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
