@@ -18,7 +18,7 @@ public:
             if (count[i] == 2) {
                 res[0] = i;
             }
-            if (count[i] == 1) {
+            if (count[i] == 0) {
                 res[1] = i;
             }
         }
