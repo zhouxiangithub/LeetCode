@@ -3108,5 +3108,98 @@
     <ClInclude Include="202411每日一题\1129-3251单调数组对的数目II.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202412每日一题\1206-999可以被一步捕获的棋子数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1205-3001捕获黑皇后需要的最少移动次数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1203-3274检查棋盘方格颜色是否相同.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1209-1812判断国际象棋棋盘中一个格子的颜色.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1207-688骑士在棋盘上的概率.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1208-782变为棋盘.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1204-2056棋盘上有效移动组合的数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1210-935骑士拨号器.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1201-51N皇后.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1202-52N皇后II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1211-2717半有序排列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1212-2931购买物品的最大开销.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1213-3264K次乘运算后的最终数组I.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1214-3266K次乘运算后的最终数组II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1215-1338数组大小减半.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1216-1847最近的房间.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1217-3291形成目标字符串需要的最少字符串数I.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1218-3292形成目标字符串需要的最少字符串数II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1219-3285找到稳定山的下标.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1220-3138同位字符串连接的最小长度.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1223-855考场就座.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1224-1705吃苹果的最大数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1225-3218切蛋糕的最小总开销I.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1221-2545根据第K场考试的分数排序.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1222-1387将整数按权重排序.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1226-3083字符串及其反转中是否存在同一子字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1227-3159查询数组中元素的出现位置.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1228-3046分割数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1229-1366通过投票对团队排名.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1230-1367二叉树中的链表.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202412每日一题\1231-3219切蛋糕的最小总开销II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
