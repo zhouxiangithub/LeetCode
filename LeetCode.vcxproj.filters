@@ -3294,5 +3294,89 @@
     <ClInclude Include="202501每日一题\0125-2412完成所有交易的初始最少钱数.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202502每日一题\0201-81搜索旋转排序数组II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0202-598区间加法II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0203-680验证回文串II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0204-922按奇偶排序数组II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0205-90子集II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0206-47全排列II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0207-59螺旋矩阵II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0208-63不同路径II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0209-80删除有序数组中的重复项II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0210-913猫和老鼠.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0211-1728猫和老鼠II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0212-1760袋子里最少数目的球.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0213-1742盒子中小球的最大数量.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0214-1552两球之间的磁力.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0217-1287有序数组中出现次数超过百分之25的元素.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0216-1299将每个元素替换为右侧最大元素.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0215-1706球会落何处.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0218-2080区间内查询数字的频率.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0219-624数组列表中的最大距离.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0220-2595奇偶位数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0221-2209用地毯覆盖后的最少白色砖块.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0222-2506统计相似字符串对的数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0224-1656设计有序流.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0223-1206设计跳表.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0225-2502设计内存分配器.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0226-1472设计浏览器历史记录.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0227-2296设计一个文本编辑器.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202502每日一题\0228-2353设计食物评分系统.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

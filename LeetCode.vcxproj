@@ -140,6 +140,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="202502每日一题\0214-1552两球之间的磁力.h" />
     <ClInclude Include="09每日一题\0923-326 3的幂.h" />
     <ClInclude Include="09每日一题\0924-430扁平化多级双向链表.h" />
     <ClInclude Include="09每日一题\0925-583两个字符串的删除操作.h" />
@@ -1233,6 +1234,33 @@
     <ClInclude Include="202501每日一题\0129-219存在重复元素II.h" />
     <ClInclude Include="202501每日一题\0130-350两个数组的交集II.h" />
     <ClInclude Include="202501每日一题\0131-541反转字符串II.h" />
+    <ClInclude Include="202502每日一题\0201-81搜索旋转排序数组II.h" />
+    <ClInclude Include="202502每日一题\0202-598区间加法II.h" />
+    <ClInclude Include="202502每日一题\0203-680验证回文串II.h" />
+    <ClInclude Include="202502每日一题\0204-922按奇偶排序数组II.h" />
+    <ClInclude Include="202502每日一题\0205-90子集II.h" />
+    <ClInclude Include="202502每日一题\0206-47全排列II.h" />
+    <ClInclude Include="202502每日一题\0207-59螺旋矩阵II.h" />
+    <ClInclude Include="202502每日一题\0208-63不同路径II.h" />
+    <ClInclude Include="202502每日一题\0209-80删除有序数组中的重复项II.h" />
+    <ClInclude Include="202502每日一题\0210-913猫和老鼠.h" />
+    <ClInclude Include="202502每日一题\0211-1728猫和老鼠II.h" />
+    <ClInclude Include="202502每日一题\0212-1760袋子里最少数目的球.h" />
+    <ClInclude Include="202502每日一题\0213-1742盒子中小球的最大数量.h" />
+    <ClInclude Include="202502每日一题\0215-1706球会落何处.h" />
+    <ClInclude Include="202502每日一题\0216-1299将每个元素替换为右侧最大元素.h" />
+    <ClInclude Include="202502每日一题\0217-1287有序数组中出现次数超过百分之25的元素.h" />
+    <ClInclude Include="202502每日一题\0218-2080区间内查询数字的频率.h" />
+    <ClInclude Include="202502每日一题\0219-624数组列表中的最大距离.h" />
+    <ClInclude Include="202502每日一题\0220-2595奇偶位数.h" />
+    <ClInclude Include="202502每日一题\0221-2209用地毯覆盖后的最少白色砖块.h" />
+    <ClInclude Include="202502每日一题\0222-2506统计相似字符串对的数目.h" />
+    <ClInclude Include="202502每日一题\0223-1206设计跳表.h" />
+    <ClInclude Include="202502每日一题\0224-1656设计有序流.h" />
+    <ClInclude Include="202502每日一题\0225-2502设计内存分配器.h" />
+    <ClInclude Include="202502每日一题\0226-1472设计浏览器历史记录.h" />
+    <ClInclude Include="202502每日一题\0227-2296设计一个文本编辑器.h" />
+    <ClInclude Include="202502每日一题\0228-2353设计食物评分系统.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
