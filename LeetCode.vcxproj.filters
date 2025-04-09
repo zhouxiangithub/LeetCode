@@ -3378,5 +3378,98 @@
     <ClInclude Include="202502每日一题\0228-2353设计食物评分系统.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202503每日一题\0301-131分割回文串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0305-1328破坏回文串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0304-1745分割回文串IV.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0302-132分割回文串II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0303-1278分割回文串III.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0306-2588统计美丽子数组数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0307-2597美丽子集的数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0310-2269找到一个数字的K美丽值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0308-2234花园的最大总美丽值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0309-2070每一个查询的最大美丽值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0311-2012数组美丽值求和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0312-3305元音辅音字符串计数I.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0313-3306元音辅音字符串计数II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0314-3340检查平衡字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0315-3110字符串的分数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0316-2272最大波动的子字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0317-1963使字符串平衡的最小交换次数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0318-2614对角线上的质数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0319-2610转换二维数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0320-2612最少翻转操作数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0321-2680最大或值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0322-2643一最多的行.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0323-2116判断一个括号字符串是否有效.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0324-2255统计是给定字符串前缀的字符串数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0325-2711对角线上不同值的数量差.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0326-2829k-avoiding数组的最小总和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0327-2712使所有字符相等的最小成本.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0328-2716最小化字符串长度.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0331-2278字母在字符串中的百分比.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0330-2109向字符串添加空格.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202503每日一题\0329-2360图中的最长环.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
