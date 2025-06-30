@@ -3654,5 +3654,95 @@
     <ClInclude Include="202505每日一题\0531-909蛇梯棋.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202506每日一题\0612-3423循环数组中相邻元素的最大差值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0601-2929给小朋友们分糖果II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0616-2016增量元素之间的最大差值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0617-3405统计恰好有K个相等相邻元素的数组数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0615-1432改变一个整数能得到的最大差值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0614-2566替换一个数字后的最大差值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0613-2616最小化数对的最大差值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0610-3442奇偶频次间的最大差值I.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0611-3445奇偶频次间的最大差值II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0618-2966划分数组并满足最大差限制.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0602-135分发糖果.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0603-1298你能从盒子里获得的最大糖果数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0604-3403从盒子中找出字典序最大的字符串I.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0605-1061按字典序排列最小的等效字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0606-2434使用机器人打印字典序最小的字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0607-3170删除星号以后字典序最小的字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0608-386字典序排数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0609-440字典序的第K小数字.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0619-2294划分数组使最大差为K.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0620-3443K次修改后的最大曼哈顿距离.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0624-2200找出数组中的所有K近邻下标.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0621-3085成为K特殊字符串需要删除的最少字符数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0622-2138将字符串拆分为若干长度为k的组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0623-2081k镜像数字的和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0625-2040两个有序数组的第K小乘积.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0626-2311小于等于K的最长二进制子序列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0627-2014重复K次的最长子序列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0628-2099找到和最大的长度为K的子序列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0629-1498满足条件的子序列数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202506每日一题\0630-594最长和谐子序列.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
