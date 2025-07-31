@@ -3744,5 +3744,98 @@
     <ClInclude Include="202506每日一题\0630-594最长和谐子序列.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202507每日一题\0701-3330找到初始输入字符串I.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0702-3333找到初始输入字符串II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0703-3304找出第K个字符I.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0707-1353最多可以参加的会议数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0706-1865找出和为指定值的下标对.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0705-1394找出数组中的幸运数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0704-3307找出第K个字符II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0708-1751最多可以参加的会议数目II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0709-3439重新安排会议得到最多空余时间I.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0710-3440重新安排会议得到最多空余时间II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0711-3169无需开会的工作日.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0714-1290二进制链表转整数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0713-2410运动员和训练师的最大匹配数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0712-1900最佳运动员的比拼回合.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0715-3136有效单词.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0716-3201找出有效子序列的最大长度I.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0717-3202找出有效子序列的最大长度II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0718-2163删除元素后和的最小差值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0721-1957删除字符使字符串变好.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0719-1233删除子文件夹.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0720-1948删除系统中的重复文件夹.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0722-1695删除子数组的最大得分.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0723-1717删除子字符串的最大得分.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0724-2322从树中删除边的最小分数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0728-2044统计按位或能得到最大值的子集数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0727-2210统计数组中峰和谷的数量.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0725-3487删除后的最大子数组元素和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0726-3480删除一个冲突对后最大子数组数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0729-2411按位或最大的最小子数组长度.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0730-2419按位与最大的最长子数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202507每日一题\0731-2683相邻值的按位异或.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
