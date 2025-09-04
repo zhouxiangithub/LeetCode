@@ -3837,5 +3837,98 @@
     <ClInclude Include="202507每日一题\0731-2683相邻值的按位异或.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202508每日一题\0801-118杨辉三角.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0805-3477水果成篮II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0804-904水果成篮.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0802-2561重排水果.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0803-2106摘水果.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0806-3479水果成篮III.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0807-3363最多可收集的水果数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0808-808分汤.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0809-2312的幂.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0810-869重新排序得到2的幂.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0811-2438二的幂数组中查询范围内的乘积.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0812-2787将一个数字表示成幂的和的方案数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0813-3263的幂.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0814-1780判断一个数字是否可以表示成三的幂的和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0815-3424的幂.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0816-13236和9组成的最大数字.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0817-837新21点.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0829-3021Alice和Bob玩鲜花游戏.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0828-3446按对角线进行矩阵排序.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0826-3000对角线最长的矩形的面积.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0827-3459最长V形对角线段的长度.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0825-498对角线遍历.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0824-1493删掉一个元素以后全为1的最长子数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0818-67924点游戏.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0823-3197包含所有1的最小矩形面积II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0822-3195包含所有1的最小矩形面积I.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0819-2348全0子数组的数目.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0820-1277统计全为1的正方形子矩阵.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0821-1504统计全1子矩形.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0830-36有效的数独.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202508每日一题\0831-37解数独.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
