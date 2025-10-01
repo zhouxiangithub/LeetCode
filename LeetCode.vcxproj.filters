@@ -3930,5 +3930,95 @@
     <ClInclude Include="202508每日一题\0831-37解数独.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202509每日一题\0904-3516找到最近的人.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0905-2749得到整数零需要执行的最少操作数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0901-1792最大平均通过率.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0902-3025人员站位的方案数I.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0903-3027人员站位的方案数II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0908-1317将整数转换为两个无零整数的和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0907-1304和为零的N个不同整数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0906-3495使数组元素都变为零的最少操作次数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0910-1733需要教语言的最少人数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0909-2327知道秘密的人数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0911-2785将字符串中的元音字母排序.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0912-3227字符串元音游戏.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0913-3541找到频率最高的元音和辅音.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0915-1935可以输入的最大单词数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0914-966元音拼写检查器.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0916-2197替换数组中的非互质数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0917-2349设计数字容器系统.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0918-3408设计任务管理器.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0919-3484设计电子表格.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0920-3508设计路由器.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0921-1912设计电影租借系统.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0922-3005最大频率元素计数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0923-165比较版本号.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0924-166分数到小数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0925-120三角形最小路径和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0926-611有效三角形的个数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0927-812最大三角形面积.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0928-976三角形的最大周长.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0929-1039多边形三角剖分的最低得分.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202509每日一题\0930-2221数组的三角和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
