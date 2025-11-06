@@ -4020,5 +4020,98 @@
     <ClInclude Include="202509每日一题\0930-2221数组的三角和.h">
       <Filter>头文件</Filter>
     </ClInclude>
+    <ClInclude Include="202510每日一题\1001-1518换水问题.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1002-3100换水问题II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1003-407接雨水II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1004-11盛最多水的容器.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1005-417太平洋大西洋水流问题.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1020-2011执行操作后的变量值.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1006-778水位上升的泳池中游泳.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1007-1488避免洪水泛滥.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1023-3461判断操作后字符串中的数字是否相等I.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1008-2300咒语和药水的成功对数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1009-3494酿造药水需要的最少总时间.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1010-3147从魔法师身上吸取的最大能量.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1011-3186施咒的最大总伤害.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1012-3539魔法序列的数组乘积之和.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1013-2273移除字母异位词后的结果数组.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1024-2048下一个更大的数值平衡数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1014-3349检测相邻递增子数组I.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1015-3350检测相邻递增子数组II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1016-2598执行操作后的最大MEX.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1017-3003执行操作后的最大分割数量.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1018-3397执行操作后不同元素的最大数量.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1019-1625执行操作后字典序最小的字符串.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1021-3346执行操作后元素的最高频率I.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1022-3347执行操作后元素的最高频率II.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1025-1716计算力扣银行的钱.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1026-2043简易银行系统.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1027-2125银行中的激光束数量.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1028-3354使数组元素等于零.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1029-3370仅含置位位的最小整数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1031-3289数字小镇中的捣蛋鬼.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="202510每日一题\1030-1526形成目标数组的子数组最少增加次数.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
